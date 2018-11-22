@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 20,
     "width": 20,
-    "x": 42,
+    "x": 48,
     "y": 28
   },
   "hasClickThrough": false,
@@ -68,6 +68,11 @@
           "blue": 0,
           "green": 0,
           "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 1,
+          "opacity": 1
         },
         "fillType": 0,
         "isEnabled": true,

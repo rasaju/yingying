@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 308,
+    "height": 375,
     "width": 114,
     "x": 70,
     "y": 48
@@ -65,9 +65,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.8718112244897959,
+          "green": 0.3360277756640062,
+          "red": 0.4213818644884952
         },
         "fillType": 0,
         "isEnabled": true,
@@ -92,7 +92,7 @@
             "modelID": "constraint_60927f1b-67de-443e-8ad2-784b9090a035",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 0.7386091
+            "multiplier": 0.9
           },
           "modelID": "viewConstraints_a97e785a-ea88-42c5-b154-c7e68c3555cc",
           "model_class": "ADModelViewConstraints",

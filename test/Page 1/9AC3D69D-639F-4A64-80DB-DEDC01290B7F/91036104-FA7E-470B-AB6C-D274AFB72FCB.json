@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "這是原來的字，是有 style 的"
+    "string": "這是後來的字，沒有 style 的"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "這是原來的字，是有 style 的",
+  "name": "這是後來的字，沒有 style 的",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -74,7 +74,6 @@
     "do_objectID": "D701D137-1B77-42EA-95FA-E366EA21D084",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "57421740-7083-4AA4-A859-5DC766F63AB2",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",

@@ -99,7 +99,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 2,
+        "offsetY": -2,
         "spread": 0
       }
     ],

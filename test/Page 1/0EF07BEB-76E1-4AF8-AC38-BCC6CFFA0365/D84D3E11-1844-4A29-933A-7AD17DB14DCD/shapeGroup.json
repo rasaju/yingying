@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E3C57EB0-7FDA-4A5B-BC5C-F24506080BB3",
-    "height": 308,
+    "height": 250,
     "width": 114,
     "x": 203,
     "y": 88
@@ -95,7 +95,7 @@
             "modelID": "constraint_e4d39c1f-9987-4bdb-97f7-8392c55dab5a",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 0.7386091
+            "multiplier": 0.6
           },
           "modelID": "viewConstraints_eec470bc-36bb-42a5-96aa-d33367bf764e",
           "model_class": "ADModelViewConstraints",
