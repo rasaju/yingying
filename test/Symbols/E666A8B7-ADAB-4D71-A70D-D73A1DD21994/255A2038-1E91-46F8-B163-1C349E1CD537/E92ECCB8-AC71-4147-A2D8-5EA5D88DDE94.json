@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
@@ -36,7 +36,6 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
   "do_objectID": "E92ECCB8-AC71-4147-A2D8-5EA5D88DDE94",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,11 +52,10 @@
     "constrainProportions": false,
     "height": 42,
     "width": 85,
-    "x": 112,
-    "y": 7
+    "x": 78,
+    "y": 9
   },
-  "glyphBounds": "{{26, 7}, {58, 29}}",
-  "hasClippingMask": false,
+  "glyphBounds": "{{1, 7}, {58, 29}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -96,7 +94,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0
@@ -109,7 +107,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }
