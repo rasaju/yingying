@@ -1,0 +1,84 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B8B9E56-F89C-49A2-89CA-ACEE8E19AF03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9343FF56-58E6-4396-908F-92D076078655",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80F0E741-3D2A-42F5-83BC-B72F1A4E8308",
+    "height": 26.8,
+    "width": 28.5,
+    "x": 0,
+    "y": -0.3999999999999773
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A92DE978-C166-4483-8DBC-97524BA1B5F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "CC0D4D27-68F6-49F3-A87A-7A66914DA6F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "40CA227F-CDFE-45B1-936D-C910AF61AA31"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D68AB19-6F77-418C-94BD-F0D4069D1528"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "624C4F19-7907-4D0F-9236-C0926CA5E47A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9450980392156862,
+          "green": 0.9450980392156862,
+          "red": 0.9450980392156862
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "66371548-29D8-4ABC-A8DC-A3994ACF4B1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA69C32F-36EA-4FE3-9A35-D07AB68CE995",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2EC57DE5-CFF2-4C9A-BC1D-0731378F7877",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E5F1EAAC-6D43-4523-929E-FC4D9FE8CBAD"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA8F33A0-34BF-41F6-AD38-75C66A0D1A8A"
+    }
+  ],
+  "name": "reply icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "390E4A62-BB8E-4939-A374-A58601A42405",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

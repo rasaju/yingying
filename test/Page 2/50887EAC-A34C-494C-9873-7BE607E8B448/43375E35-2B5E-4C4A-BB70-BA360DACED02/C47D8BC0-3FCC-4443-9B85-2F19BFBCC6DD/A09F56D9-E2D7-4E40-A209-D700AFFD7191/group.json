@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A09F56D9-E2D7-4E40-A209-D700AFFD7191",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1687BEF4-48A7-4C0B-9184-D5E51834B0BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01AC891C-9D10-467F-A197-A65A9F075411",
+    "height": 167,
+    "width": 456,
+    "x": 0,
+    "y": 43
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B28250BB-C396-4EB4-821A-49B2113B1B66"
+    },
+    {
+      "class": "group",
+      "id": "FB7C7A7C-1B2E-46CE-92D9-FE792F9C762D"
+    },
+    {
+      "class": "group",
+      "id": "A8699EB2-E573-42E0-9FE4-97404E8F19D3"
+    }
+  ],
+  "name": "fabs light",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F162806-4CF1-42A8-9524-46221724B223",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

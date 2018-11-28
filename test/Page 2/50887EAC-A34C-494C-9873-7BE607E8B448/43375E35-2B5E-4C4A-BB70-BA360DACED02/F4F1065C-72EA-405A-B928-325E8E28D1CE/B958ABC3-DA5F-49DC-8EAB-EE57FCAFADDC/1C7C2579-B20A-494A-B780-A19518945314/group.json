@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C7C2579-B20A-494A-B780-A19518945314",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E285282-EAED-4483-BF7B-AC8214D24CAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E50CAE0D-63AE-4F6C-AE6E-B13819C90531",
+    "height": 24,
+    "width": 89,
+    "x": 64,
+    "y": 116
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4DECBFA1-8470-4DAE-B46F-55A554823779"
+    },
+    {
+      "class": "group",
+      "id": "FE187DEF-BEC8-485E-939A-B559B82D3D55"
+    }
+  ],
+  "name": "archive",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C19ED785-FCEB-49F9-9DA7-577DAE5DF64F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

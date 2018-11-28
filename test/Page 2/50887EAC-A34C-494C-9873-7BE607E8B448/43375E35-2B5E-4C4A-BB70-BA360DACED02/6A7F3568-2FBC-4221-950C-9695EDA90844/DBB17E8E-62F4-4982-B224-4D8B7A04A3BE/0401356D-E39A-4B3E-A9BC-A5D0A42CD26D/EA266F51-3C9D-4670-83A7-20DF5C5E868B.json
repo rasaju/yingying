@@ -1,0 +1,90 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA266F51-3C9D-4670-83A7-20DF5C5E868B",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "951AF38A-3096-44E3-8624-18AEDEC21260",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B10644E-2989-4999-85CC-C7E9F92943E8",
+    "height": 2,
+    "width": 329,
+    "x": 0.5,
+    "y": 39
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "line",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-6.5052130349130266e-19, 0.375}",
+      "curveMode": 1,
+      "curveTo": "{-6.5052130349130266e-19, 0.375}",
+      "do_objectID": "67D81D37-6D01-4C7A-97FF-709E6AE526E8",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{-0.0015197568389057751, 0.25}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.0045025950144853086, 0.625}",
+      "curveMode": 1,
+      "curveTo": "{0.0045025950144853086, 0.625}",
+      "do_objectID": "C0F7D4A3-5307-467F-923C-D3D771DF8FBD",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99848024316109418, 0.25}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.12,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "do_objectID": "A1C15492-0319-41A8-8878-CC911EB7042A",
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "42763686-BCF9-43FE-84A9-9012034DB43C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

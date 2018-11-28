@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "10FBEFEF-FC5E-4FEE-93C5-536EE0FC3C58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49368813-B6DE-4BD6-9601-1B24275A91CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C128914-0655-47CB-8714-494A1AD3812D",
+    "height": 592,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D3D2E78F-DF39-4CB8-9EBF-DD86048B732B"
+    },
+    {
+      "class": "group",
+      "id": "D2D4F6C7-0C66-4A19-9940-251F71E63F32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35B1952A-1E7D-4565-AA50-FB4730A6535B"
+    }
+  ],
+  "name": "side nav",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBF68BA5-B734-4917-A155-5E7AB3979D87",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

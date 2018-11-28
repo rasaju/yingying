@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A7E0481C-0233-489E-8D51-5ECECE95F405",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57B9E776-6D66-4A71-BEFD-F71BB9350A2A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D7328B69-472B-4B4F-B486-EC6BFF99803B",
+    "height": 167,
+    "width": 456,
+    "x": 456,
+    "y": 43
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "085567B4-804E-403E-9E1B-F3177604AE58"
+    },
+    {
+      "class": "group",
+      "id": "B5077D06-525C-425F-B57A-4DD3EF378AE0"
+    },
+    {
+      "class": "group",
+      "id": "8AC9A297-018B-4067-81A5-15BB5C49A830"
+    }
+  ],
+  "name": "fabs dark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34A2258B-2A01-4E37-BE38-924BA1B9B698",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

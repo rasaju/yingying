@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1CC0DF58-F48B-43FD-A1A6-6D0DAB0891AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD87D583-0FD9-4252-89A3-2A0D926B2424",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "984968AD-EFB9-4370-9692-8485E55AF24C",
+    "height": 24,
+    "width": 24,
+    "x": 48,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0E86FB2F-9C8C-49D9-8746-712BBA9ECEB5"
+    },
+    {
+      "class": "shapePath",
+      "id": "E8534FA1-6C76-49A5-A557-4B0FFD13042B"
+    }
+  ],
+  "name": "italic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5579F273-E728-4181-8139-E212DBF59E7F",
+      "opacity": 0.5
+    },
+    "do_objectID": "1434D143-A9B3-42BD-89DB-5EEC49A9EBBB",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

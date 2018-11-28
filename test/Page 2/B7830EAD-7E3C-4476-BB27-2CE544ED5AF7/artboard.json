@@ -1,0 +1,150 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921580314636,
+    "do_objectID": "C267EB1C-5557-4122-A329-CFFF78D579A7",
+    "green": 0.9803921580314636,
+    "red": 0.9803921580314636
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7830EAD-7E3C-4476-BB27-2CE544ED5AF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17D1917A-3CE6-472D-840C-9A1B60E80284",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "759F7286-5EBB-4FDF-A57E-9D6517F0880E",
+    "height": 960,
+    "width": 600,
+    "x": 6359,
+    "y": 4194
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "72DE030E-065A-466C-8BD3-F0F08CF784BE",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 0
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0CC85C59-97FA-4E1F-9C40-A52AAA4C8532",
+    "guides": [
+      24,
+      576,
+      80
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D40E998E-564A-4E20-BB6A-B61CC443BF40"
+    },
+    {
+      "class": "group",
+      "id": "34F22FAE-14A6-44E9-BDCF-BE4E5FBD7984"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 45,
+    "do_objectID": "9721934E-163A-40D8-B862-80D348A2C8AB",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 600
+  },
+  "name": "Tablet 7inch",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 960,
+    "name": "Nexus 7",
+    "offersLandscapeVariant": 1,
+    "width": 600
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8AEB3407-59A0-4840-9CF5-FADD5B98C16D",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A507281B-B05F-49DE-B2B3-ABE6E3759495",
+    "guides": [
+    ]
+  }
+}

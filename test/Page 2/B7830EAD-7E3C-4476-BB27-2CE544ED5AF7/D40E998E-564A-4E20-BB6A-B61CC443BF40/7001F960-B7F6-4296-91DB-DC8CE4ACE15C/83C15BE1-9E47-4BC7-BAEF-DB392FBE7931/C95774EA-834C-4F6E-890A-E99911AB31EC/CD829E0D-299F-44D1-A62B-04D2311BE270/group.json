@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD829E0D-299F-44D1-A62B-04D2311BE270",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CBA0F397-18EA-472A-9549-419251065CAF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB5A14FB-A57C-47F2-B801-E0066C827612",
+    "height": 24,
+    "width": 24,
+    "x": 1.4210854715202e-14,
+    "y": 96
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6E2FE8F3-5B7C-4792-9EEF-CFB8E6DBF540"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88214AC2-FBEC-4409-B60F-979C12516747"
+    }
+  ],
+  "name": "trash",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E0869A2-67CC-43B9-A49B-3B535BD65C9F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

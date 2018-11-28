@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "55E6498A-6F0A-481A-BCD0-E646F4B21E66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CD9B17AD-F5DB-40C2-BEDF-7E9C6E221EC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E7BAA978-DE95-495D-9F67-181F8EDDF54D",
+    "height": 421,
+    "width": 913,
+    "x": 2441,
+    "y": 2574
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0DE78C05-E9DE-442C-81DA-A651DACDE92A"
+    },
+    {
+      "class": "text",
+      "id": "E73F8F8A-3AEA-4B6B-8295-2BDE46B16273"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C59E636F-6ED0-42A1-8168-9EF6C9AFAB19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29BA214A-8CFA-4B77-9A5D-5E504121AF96"
+    }
+  ],
+  "name": "keyboards",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B1A84A8-96BC-461E-BED2-5D3BB8B8EDD9",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

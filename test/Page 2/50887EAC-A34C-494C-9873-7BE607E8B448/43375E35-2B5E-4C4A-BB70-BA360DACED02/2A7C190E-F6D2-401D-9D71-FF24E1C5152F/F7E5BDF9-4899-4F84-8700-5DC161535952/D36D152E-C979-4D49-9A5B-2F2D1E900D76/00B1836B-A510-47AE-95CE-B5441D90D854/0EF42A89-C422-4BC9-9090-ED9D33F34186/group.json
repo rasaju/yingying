@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0EF42A89-C422-4BC9-9090-ED9D33F34186",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E05B771E-24FF-4CFC-A25B-6E97CA9046DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40932496-4C94-4238-A09F-49D069076E99",
+    "height": 44,
+    "width": 281,
+    "x": 25,
+    "y": 396
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "A3ACD2AB-BB87-451C-A276-8C717E9A54EF"
+    },
+    {
+      "class": "text",
+      "id": "627DE554-07D0-4A8C-BB79-CE309A0D4CA2"
+    },
+    {
+      "class": "text",
+      "id": "A569A632-4096-4543-9CD8-7349D6266BBD"
+    }
+  ],
+  "name": "AM-PM",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10CAA139-35DC-4742-A267-F5A5212FFAC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

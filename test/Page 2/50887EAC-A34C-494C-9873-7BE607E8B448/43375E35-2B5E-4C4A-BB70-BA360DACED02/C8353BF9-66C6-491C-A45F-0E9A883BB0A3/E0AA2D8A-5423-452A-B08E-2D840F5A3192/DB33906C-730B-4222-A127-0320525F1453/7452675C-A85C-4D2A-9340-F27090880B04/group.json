@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7452675C-A85C-4D2A-9340-F27090880B04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42374322-5739-4BA9-853F-38D3EF746E51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "42C1E77C-FD32-425C-8560-97A2221C1833",
+    "height": 70,
+    "width": 48,
+    "x": 24,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1974352A-6618-44CF-AAD6-97E6C005288D"
+    },
+    {
+      "class": "group",
+      "id": "E7C72022-B35A-43C0-851C-9672E651B765"
+    }
+  ],
+  "name": "gmail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40E51E3E-B7AB-4690-89C0-6A7CCF6C9761",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

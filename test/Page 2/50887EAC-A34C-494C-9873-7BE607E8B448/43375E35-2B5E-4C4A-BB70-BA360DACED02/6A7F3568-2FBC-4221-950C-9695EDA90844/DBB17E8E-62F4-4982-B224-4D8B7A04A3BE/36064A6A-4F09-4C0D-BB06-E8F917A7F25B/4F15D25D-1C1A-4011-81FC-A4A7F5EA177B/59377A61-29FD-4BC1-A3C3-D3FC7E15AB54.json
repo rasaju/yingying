@@ -1,0 +1,90 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59377A61-29FD-4BC1-A3C3-D3FC7E15AB54",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D7B388A-53D1-47B6-8280-19410EA8FFFB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "652F2C13-9CDB-4032-83B8-8CF42176C40D",
+    "height": 3,
+    "width": 330,
+    "x": 0.5,
+    "y": 38
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "line",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.003030303030303029, 0.58333333333333326}",
+      "curveMode": 1,
+      "curveTo": "{0.003030303030303029, 0.58333333333333326}",
+      "do_objectID": "D0D515A7-296D-4193-B525-717C0A6EE538",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.0015151515151515149, 0.5}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.0075192538174717154, 0.74999999999999989}",
+      "curveMode": 1,
+      "curveTo": "{0.0075192538174717154, 0.74999999999999989}",
+      "do_objectID": "0D6C94D4-AAA4-4575-9E36-57B7DEBAAAE4",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99848484848484831, 0.5}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.12,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "do_objectID": "69B0BC8C-6646-4ADB-8EF0-488867E8A9C7",
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "E966A2BB-5AAB-4FF8-B935-601C70E545DA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

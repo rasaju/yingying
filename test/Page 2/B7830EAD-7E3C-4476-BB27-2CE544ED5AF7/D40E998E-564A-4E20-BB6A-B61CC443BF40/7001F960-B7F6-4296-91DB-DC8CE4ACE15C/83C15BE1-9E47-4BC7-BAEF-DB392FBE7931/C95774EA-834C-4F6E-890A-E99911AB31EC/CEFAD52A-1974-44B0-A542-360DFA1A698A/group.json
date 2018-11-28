@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CEFAD52A-1974-44B0-A542-360DFA1A698A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ABDF3424-8C1D-46A5-8F30-CC26F9E89824",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D3E1956-8417-41A7-AE6D-CBD42B911A4A",
+    "height": 24,
+    "width": 24,
+    "x": 1.4210854715202e-14,
+    "y": 144
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AEA033EF-D7AB-4165-935F-6B9D9DA2C147"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89071243-32C8-487D-BA1D-E47ED7E29B72"
+    }
+  ],
+  "name": "spam",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1929D954-6A99-4DC4-85B5-F8F9B8CA339B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

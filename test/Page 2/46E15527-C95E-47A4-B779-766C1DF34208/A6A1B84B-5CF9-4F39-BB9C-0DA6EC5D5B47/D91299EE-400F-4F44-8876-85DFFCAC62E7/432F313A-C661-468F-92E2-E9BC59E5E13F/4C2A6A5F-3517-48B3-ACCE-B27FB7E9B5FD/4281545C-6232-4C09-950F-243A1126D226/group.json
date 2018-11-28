@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4281545C-6232-4C09-950F-243A1126D226",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D8A9033-BA50-4964-B62E-7A10B4C73F69",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F287E83A-87C6-4950-AA68-BFA61CBF10A0",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "048D0FE9-7404-4E58-91A0-A6E3067D3A93"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3F563A5-083B-49BB-9140-699F27E8AACD"
+    }
+  ],
+  "name": "inbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D02B8E90-75FD-465D-8E19-01E720049A8B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

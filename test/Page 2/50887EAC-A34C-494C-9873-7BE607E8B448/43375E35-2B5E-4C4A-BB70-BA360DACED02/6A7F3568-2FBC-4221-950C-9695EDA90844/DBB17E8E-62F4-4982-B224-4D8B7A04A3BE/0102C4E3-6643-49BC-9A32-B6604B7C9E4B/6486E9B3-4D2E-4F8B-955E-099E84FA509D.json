@@ -1,0 +1,90 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6486E9B3-4D2E-4F8B-955E-099E84FA509D",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "952A4F15-24F6-402D-9E20-DFAEEDE76409",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF8AABB5-9864-45EF-978B-D2A5B91FFDC7",
+    "height": 2,
+    "width": 330,
+    "x": 0.5,
+    "y": 39
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "line",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.003030303030303029, 0.375}",
+      "curveMode": 1,
+      "curveTo": "{0.003030303030303029, 0.375}",
+      "do_objectID": "2B20CAFD-DAAA-40CC-9533-95DCDEBA3282",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.0015151515151515149, 0.25}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.0075192538174717154, 0.625}",
+      "curveMode": 1,
+      "curveTo": "{0.0075192538174717154, 0.625}",
+      "do_objectID": "282A1D5C-562C-49D2-A039-CD61794C5E69",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99848484848484831, 0.25}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.12,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "do_objectID": "5D2BB8B7-78D0-44DD-BC86-7BC74B60B6D7",
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "C1BED11D-DD0F-46CF-9C35-809E1CB85B24",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

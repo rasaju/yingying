@@ -1,0 +1,90 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "43F2F423-4579-4009-BA48-324C8D371087",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2169F071-F692-49C7-B35C-4456B789E4D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF4AABD5-15FE-4057-B8F1-AF0E986CC077",
+    "height": 3,
+    "width": 281,
+    "x": 63.5,
+    "y": 102
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "divider",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.0035587188612099616, 0.48611111111111094}",
+      "curveMode": 1,
+      "curveTo": "{0.0035587188612099616, 0.48611111111111094}",
+      "do_objectID": "5B995BB7-21E1-4CAC-BF4A-BD151429870D",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.0017793594306049819, 0.5}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.007117003308496201, 0.60416666666666641}",
+      "curveMode": 1,
+      "curveTo": "{0.007117003308496201, 0.60416666666666641}",
+      "do_objectID": "89880328-5481-4E98-9F59-ACC277BFCDF9",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99822064056939497, 0.5}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "FA422B81-C574-4E37-BA7A-4101242F93AD",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.12,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "24517DE8-83B8-4481-8F77-2CFB48182B53",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

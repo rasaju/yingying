@@ -1,0 +1,87 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "732648FD-5A53-49F2-AD3A-C0A50AB2A171",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "812D4529-37D1-43FB-831C-F6F6766FC788",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B09A339D-B655-4559-925B-7ED8B5192208",
+    "height": 24,
+    "width": 2,
+    "x": 0,
+    "y": 352
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Shape 4",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.50000000000003464, -0.020833333333333336}",
+      "curveMode": 1,
+      "curveTo": "{0.50000000000003464, -0.020833333333333336}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.72500000000002274, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.27447876836206964, 0.95876736111111127}",
+      "curveMode": 1,
+      "curveTo": "{0.27447876836206964, 0.95876736111111127}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.72500000000002274, 0.97916666666666674}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5058823529411762,
+          "green": 0.2509803921568627,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "043B1D3C-280C-45C4-9978-5FF336BE8B68",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
