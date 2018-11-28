@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangTC-Regular",
-              "size": 30
+              "size": 16
             }
           },
           "kerning": 0,
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "元件"
+    "string": "元件拉拉啦啦啦"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
-    "width": 85,
-    "x": 78,
-    "y": 9
+    "height": 22,
+    "width": 112,
+    "x": 35,
+    "y": 18
   },
-  "glyphBounds": "{{1, 7}, {58, 29}}",
+  "glyphBounds": "{{0, 3}, {112, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "元件",
+  "name": "元件拉拉啦啦啦",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,15 +82,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangTC-Regular",
-            "size": 30
+            "size": 16
           }
         },
         "kerning": 0,
@@ -105,7 +105,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
