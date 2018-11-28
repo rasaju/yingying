@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8737972A-0B8F-4E6E-B7D9-47480F9CF5F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B63A245-729F-4E7A-B1A0-31E6C5566D71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AC710DC-F6EA-457B-BBD5-1101BF814288",
+    "height": 24,
+    "width": 24,
+    "x": 303,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7ECD1B80-71EA-467C-807F-138ECA7B122B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76C6DFA6-03C9-4D83-96D3-136747469681"
+    }
+  ],
+  "name": "mic",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7213F20B-B5A8-4821-8180-D072EBC479CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0F461BD-9B47-499B-A388-66671E0A219A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "978B2D2D-4CA5-4D0F-A770-B5A2A0EAC439",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF6BC2E0-3F2A-469D-9D3D-717FC1AFB117",
+    "height": 48,
+    "width": 331,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2B046363-D4F0-4737-BA10-FE400EE59740"
+    },
+    {
+      "class": "shapePath",
+      "id": "D39797DE-BDE5-458C-9F6C-AF02E37F4F14"
+    },
+    {
+      "class": "text",
+      "id": "7BA3EF7B-FD54-4E78-97D9-7D16FE0DD665"
+    }
+  ],
+  "name": "text field",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "877F5E13-243F-43C1-9D0F-55E151936FE5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

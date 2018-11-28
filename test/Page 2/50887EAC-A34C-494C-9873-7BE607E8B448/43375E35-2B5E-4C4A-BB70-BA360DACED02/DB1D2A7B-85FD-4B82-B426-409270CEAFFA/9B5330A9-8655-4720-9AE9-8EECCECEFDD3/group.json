@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B5330A9-8655-4720-9AE9-8EECCECEFDD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2955D9B2-541F-417E-BA49-F95AF8FA1651",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC27F2E9-8BFD-452D-B884-EAC471EBC1AE",
+    "height": 303,
+    "width": 360,
+    "x": 39,
+    "y": 775
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "65024453-417D-44B1-B162-CB6BD95BB851"
+    },
+    {
+      "class": "group",
+      "id": "716FA2F5-E648-4878-81E7-D9F2094AA44B"
+    }
+  ],
+  "name": "standalone tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8EB8542-00F4-4CF4-926D-C6EDD3432BF1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

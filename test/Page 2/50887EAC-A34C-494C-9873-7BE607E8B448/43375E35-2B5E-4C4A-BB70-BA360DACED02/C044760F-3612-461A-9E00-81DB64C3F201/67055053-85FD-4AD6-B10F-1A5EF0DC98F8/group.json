@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "67055053-85FD-4AD6-B10F-1A5EF0DC98F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64AA244F-A12F-4453-A2F1-64B6CB365099",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58AFC1C5-CE37-4048-8437-E375B847EEDF",
+    "height": 216,
+    "width": 168,
+    "x": 484,
+    "y": 356
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "66A3E282-747E-4F1B-8C40-166CA677CDEA"
+    },
+    {
+      "class": "group",
+      "id": "29F1A265-89E4-4B49-99E6-897884D0B0BC"
+    },
+    {
+      "class": "rectangle",
+      "id": "3137C4DF-CDCB-44DE-B1AA-A73358ECAAF4"
+    },
+    {
+      "class": "text",
+      "id": "87DE848F-47E2-49CF-84BE-D348D9D55186"
+    }
+  ],
+  "name": "road trips",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B76ACC21-41E7-4FFB-81FF-DDB8F68933D8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2EFA6097-87BF-4CCD-9CDC-E2581A6523F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E51B7234-9CBC-460A-AECD-387BF3034D42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "831B15DF-7F4F-45A5-BCDE-D11E6BE8BA5B",
+    "height": 32,
+    "width": 113,
+    "x": 1167,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "title bar controls",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "FEBD6B7A-CA21-4BAD-8470-1B64186BDE6F",
+      "opacity": 0.7
+    },
+    "do_objectID": "D08C8F3F-68F0-4BC4-ACD6-7B776C183E95",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65AFD7B4-F82E-49DE-ADDF-8088B0415F8A",
+  "verticalSpacing": 0
+}

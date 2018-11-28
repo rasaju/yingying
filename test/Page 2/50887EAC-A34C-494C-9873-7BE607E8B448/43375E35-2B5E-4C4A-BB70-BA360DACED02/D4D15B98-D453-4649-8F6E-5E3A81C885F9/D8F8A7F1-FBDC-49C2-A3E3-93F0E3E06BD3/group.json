@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8F8A7F1-FBDC-49C2-A3E3-93F0E3E06BD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45414C2D-E2CB-401D-ABF6-D0786D271F85",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB38DE33-E25E-4A76-B2E9-6841FD596AB2",
+    "height": 280,
+    "width": 2801,
+    "x": 476,
+    "y": 797
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AAD4D24A-0C7A-4172-9D11-3967DB4E19B7"
+    }
+  ],
+  "name": "three lines with avatar and icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7B09213-E6BC-4700-B41A-F802578EB237",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

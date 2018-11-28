@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7DABC6F5-205B-4D12-8E87-8EFB8D48184E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02CF90EC-1D6C-4D2C-99C4-FCC5B0DB94BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8905E539-24E0-4B0A-AC1A-6BAFEFCC60B9",
+    "height": 224,
+    "width": 168,
+    "x": 660,
+    "y": 597
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AD6EAD2D-ED60-4EC7-B6D2-FA956C0E8C65"
+    },
+    {
+      "class": "shapePath",
+      "id": "CF9566E5-43DD-4A62-A8D8-B4B64A06719E"
+    },
+    {
+      "class": "text",
+      "id": "CDC3CEE1-27E7-42DC-B7CA-E70BF8605CF5"
+    },
+    {
+      "class": "group",
+      "id": "223B88E7-C531-4D9B-A175-CCED64C7E247"
+    },
+    {
+      "class": "group",
+      "id": "8FC43DF3-BA10-43CE-876D-0336C89A1D1C"
+    },
+    {
+      "class": "group",
+      "id": "5C77A399-1A1F-4041-90A2-D94C195247CA"
+    },
+    {
+      "class": "group",
+      "id": "4F850BBF-719D-452E-976C-F5984926BC08"
+    },
+    {
+      "class": "group",
+      "id": "F06D06C3-E596-4D45-BF29-A783A96FAF15"
+    },
+    {
+      "class": "text",
+      "id": "0766D9B7-00F7-4FB5-B6B7-B4B9F122D1DB"
+    },
+    {
+      "class": "text",
+      "id": "7BC719C9-04D3-407C-85B8-1DC8ED7F11E8"
+    },
+    {
+      "class": "text",
+      "id": "FC869DFF-8A84-42D4-83DC-0173C46F53E4"
+    },
+    {
+      "class": "text",
+      "id": "C0932F78-C5B1-4D7E-90B1-17D483C79DBB"
+    },
+    {
+      "class": "text",
+      "id": "A2CC8B70-ED3C-4BDB-B0AC-2820B1DCB04D"
+    }
+  ],
+  "name": "groceries",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6477F36A-8D2A-45B2-9510-953B159CCEC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

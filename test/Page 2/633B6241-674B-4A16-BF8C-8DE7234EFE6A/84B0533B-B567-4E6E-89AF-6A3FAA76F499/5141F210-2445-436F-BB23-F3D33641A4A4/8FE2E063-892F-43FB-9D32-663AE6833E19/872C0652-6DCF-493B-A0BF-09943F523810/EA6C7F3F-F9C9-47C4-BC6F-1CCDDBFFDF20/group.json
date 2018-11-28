@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA6C7F3F-F9C9-47C4-BC6F-1CCDDBFFDF20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1690C184-3796-4E91-BAB1-BBB084934915",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA4D67A0-53B8-44F6-94D1-3001699DCCA3",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 288
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0ED87CBC-1CF2-4F8D-8D14-6F822CE44F99"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8C5A644-2717-47EB-A6B0-FBE194D81094"
+    }
+  ],
+  "name": "promos",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53A97041-1419-4451-BCC9-19A041C41AA8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

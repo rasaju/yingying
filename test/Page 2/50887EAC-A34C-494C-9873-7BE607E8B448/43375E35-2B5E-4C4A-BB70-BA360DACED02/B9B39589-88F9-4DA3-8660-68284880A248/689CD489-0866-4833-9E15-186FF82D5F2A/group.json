@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "689CD489-0866-4833-9E15-186FF82D5F2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "828EA21C-4318-46EF-8B25-91ECB113C23B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0841AECC-9DE7-40F5-B36D-8BD865C97ABD",
+    "height": 245,
+    "width": 359,
+    "x": 477,
+    "y": 363
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BEE50820-ED57-4F3A-95CA-43892A96B3CF"
+    },
+    {
+      "class": "group",
+      "id": "168809FF-7A20-4728-BB1E-D751B58FE8C4"
+    }
+  ],
+  "name": "tiles multi-line",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21BB5F2B-C8F6-4B61-96BC-586197D59EBA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

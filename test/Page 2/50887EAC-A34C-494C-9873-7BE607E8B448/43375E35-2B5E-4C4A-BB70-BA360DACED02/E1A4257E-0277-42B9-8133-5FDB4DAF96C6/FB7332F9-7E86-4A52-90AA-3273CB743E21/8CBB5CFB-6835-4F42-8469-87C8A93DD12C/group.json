@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8CBB5CFB-6835-4F42-8469-87C8A93DD12C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C93AC94-EEE3-44B6-B917-26CC3C7AA7F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D0418EA-511F-4D58-AAF8-57111FD1DCBE",
+    "height": 12,
+    "width": 144,
+    "x": 248,
+    "y": 386
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "010486F2-1856-44E8-909D-786476360369"
+    },
+    {
+      "class": "shapePath",
+      "id": "F6405262-CA93-4EB1-8180-C9B7B3632AA4"
+    },
+    {
+      "class": "shapePath",
+      "id": "AC8E2BF8-2916-458F-A432-519AC2608434"
+    }
+  ],
+  "name": "slider regular disabled",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34008993-A68C-4A78-A561-9A5DA9E56BF9",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

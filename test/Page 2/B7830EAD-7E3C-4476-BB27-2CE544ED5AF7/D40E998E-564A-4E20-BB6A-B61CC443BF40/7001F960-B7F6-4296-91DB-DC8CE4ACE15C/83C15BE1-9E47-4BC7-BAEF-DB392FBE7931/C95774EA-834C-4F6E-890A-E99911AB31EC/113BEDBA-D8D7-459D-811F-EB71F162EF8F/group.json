@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "113BEDBA-D8D7-459D-811F-EB71F162EF8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CE849BF-C2F3-441D-A171-7F86AA5CA8B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "906D3F41-AAFB-42ED-ABDD-F6690812BDC4",
+    "height": 24,
+    "width": 24,
+    "x": 1.4210854715202e-14,
+    "y": 192
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A226C58A-8202-4328-89AA-DF1B90B50EBB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2DAD74D6-491D-4C1A-ACB4-38080962C86B"
+    }
+  ],
+  "name": "forums",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47FCFA78-663F-48BE-96B6-7D25D80F546B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

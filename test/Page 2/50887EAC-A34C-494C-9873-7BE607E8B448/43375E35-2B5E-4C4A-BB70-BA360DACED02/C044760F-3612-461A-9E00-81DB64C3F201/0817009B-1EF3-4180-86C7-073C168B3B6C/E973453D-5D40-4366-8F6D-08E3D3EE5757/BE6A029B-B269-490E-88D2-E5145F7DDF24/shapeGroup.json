@@ -1,0 +1,85 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE6A029B-B269-490E-88D2-E5145F7DDF24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7ED2F9F1-C47E-4CA0-8FFD-E722DFA47EC1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E0253FF-95DB-4F18-B534-830B976A401F",
+    "height": 20,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7B5DBCE7-534F-45D0-9236-520918E4B9D9"
+    },
+    {
+      "class": "shapePath",
+      "id": "01765E21-3C3C-4AF1-9DD5-48C903A87A57"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E273339-A0BA-4BD5-BBDC-25AFFA1147E9"
+    },
+    {
+      "class": "shapePath",
+      "id": "F0B376F9-46FF-4580-8AC5-57F12D13D831"
+    }
+  ],
+  "name": "Imported Layers",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "942F998E-2B41-4FA1-B570-D8F4AE1731B1",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84006B3D-8AF7-45D1-89F9-CB3F8FE231A0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "93BB14D4-DAD4-4A0B-976C-8C875C43DBA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3AE12107-5926-4913-910D-FFD5E95B9A66",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "162BE3D3-26F6-4910-B14A-737491FC2C21",
+    "height": 640,
+    "width": 360,
+    "x": 76,
+    "y": 103
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D4396F4B-BB31-41C2-A6DE-9A938EDCC02C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75A65C3A-FDC5-4D19-B34B-27E4899EEF87"
+    }
+  ],
+  "name": "date picker",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DFA958EA-3D33-4BC7-A937-61CC20041E44",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

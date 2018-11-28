@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E0AA2D8A-5423-452A-B08E-2D840F5A3192",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22E9CD2F-9C0C-455D-809A-09588FC7C790",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "160B3957-05DD-4513-B7C4-144C63791805",
+    "height": 300,
+    "width": 360,
+    "x": 76,
+    "y": 99
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E625C909-0A01-4728-AA1A-EA43B87B4664"
+    },
+    {
+      "class": "group",
+      "id": "DB33906C-730B-4222-A127-0320525F1453"
+    }
+  ],
+  "name": "grid sheet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E377502D-3D4E-4545-9CBF-721891144619",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
