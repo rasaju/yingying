@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "89D95034-F8AF-4268-9A12-A4D846F84BC5",
+  "do_objectID": "A05C47DA-5A74-4752-8366-24AC0B7901F8",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C53AFF23-2DAD-424E-A4D2-07067C9D693B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 67,
-    "width": 217,
-    "x": 208,
-    "y": 314
+    "do_objectID": "8B77906A-EE32-4751-8011-5050FD33A09E",
+    "height": 60,
+    "width": 240,
+    "x": 185,
+    "y": 149
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +30,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "block",
+  "name": "btn",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCE358F9-CC93-4F74-9011-400693633EB0",
+      "overrideName": "E92ECCB8-AC71-4147-A2D8-5EA5D88DDE94_stringValue",
+      "value": "這是最新的元件"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,12 +47,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6CE24C36-C046-444B-94B9-2B77DE7BF0BB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D16CB5A6-874E-455A-AAFF-F37D940A9208",
+  "symbolID": "E9B87D2A-D414-4D8D-B555-D12AC3C3640B",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
