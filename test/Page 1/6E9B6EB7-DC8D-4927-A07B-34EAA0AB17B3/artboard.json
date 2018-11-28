@@ -85,6 +85,10 @@
     {
       "class": "rectangle",
       "id": "A6EEF693-AC77-44A7-A697-482604457769"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F839A8B5-0117-425E-B040-E8680F735B40"
     }
   ],
   "name": "test_1",
