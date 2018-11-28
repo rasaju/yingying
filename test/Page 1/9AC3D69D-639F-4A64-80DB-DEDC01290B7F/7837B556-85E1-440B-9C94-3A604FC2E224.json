@@ -1,11 +1,11 @@
 {
-  "_class": "shapeGroup",
+  "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1242C904-D413-4965-8C38-7DC9046DED2D",
+  "do_objectID": "7837B556-85E1-440B-9C94-3A604FC2E224",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DE3501C3-E616-40CF-B630-6063E649C802",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,46 +13,75 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BD84C03E-7F13-4B09-B6BF-4AD447247D73",
     "height": 20,
     "width": 20,
-    "x": 148,
+    "x": 48,
     "y": 28
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "layers": [
+  "name": "Rectangle",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "class": "rectangle",
-      "id": "F438D25C-C07E-48ED-ADE8-0300E77E4029"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99999999999999889, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.99999999999999889, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999999999999889, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99999999999999889, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.99999999999999889, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999999999999889, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
     }
   ],
-  "name": "Rectangle Copy 2",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "0A9DD1CA-ACD4-4FAB-B29E-5BC2DE654642",
-      "isEnabled": true,
-      "motionAngle": 0,
-      "radius": 10,
-      "type": 0
-    },
     "borders": [
       {
         "_class": "border",
@@ -69,7 +98,6 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "B55064AE-8E55-4436-A0AF-E5EF372FEC74",
     "endMarkerType": 0,
     "fills": [
       {
@@ -81,6 +109,11 @@
           "green": 0,
           "red": 0
         },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 1,
+          "opacity": 1
+        },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
@@ -90,28 +123,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -120,6 +131,5 @@
       "kModelPropertiesKey": {
       }
     }
-  },
-  "windingRule": 1
+  }
 }

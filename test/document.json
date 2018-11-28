@@ -28,12 +28,17 @@
     ]
   },
   "meta": {
-    "appVersion": "51.1",
-    "build": 57501,
-    "version": 105
+    "appVersion": "52.4",
+    "build": 67378,
+    "version": 112
   },
   "pages": [
     "Page 1",
     "Symbols"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }
